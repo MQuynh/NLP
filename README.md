@@ -1,2 +1,6 @@
 # NLP
-Predict reviews
+# Predict reviews
+# Topic objective: 
+  + The goal of the project brought by the team is to process natural language customer reviews and then draw conclusions about whether the customer will buy again or encourage future consumers to buy that product. The project helps consumers have an objective view of the products they plan to buy on e-commerce platforms. In addition, the research not only aims to improve consumer experience but also support commercial businesses. e-commerce and fashion brands to improve product quality, customer service and marketing strategies based on consumer opinions.
+  + For customers who rate and encourage repeat purchases, it means they are satisfied with both the products and services of the brand, so sellers also need to take care and focus on interacting and maintaining good services for customers. with this customer file to gain brand loyal customers. For customers whose reviews do not recommend repurchasing, suppliers need to find out what problems their products are having and what needs to be improved, then make modifications and provide good service again. best.
+  + Therefore, the project the group brings is not just a simple research on product evaluation, but plays an important role in the development of e-commerce and data analysis, bringing great benefits to both consumers and fashion businesses.
